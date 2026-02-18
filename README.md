@@ -47,3 +47,7 @@ It prints the final low, moderate, and high demand lists.
 It displays the total number of valid requests.
 
 Finally, it shows how many requests were removed due to PLI
+
+
+<img width="674" height="872" alt="image" src="https://github.com/user-attachments/assets/6778238b-65b7-4dd0-a69d-e8fc9dcc9f7f" />
+
